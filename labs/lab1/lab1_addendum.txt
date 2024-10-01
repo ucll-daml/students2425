@@ -12,4 +12,8 @@ Activating a Virtual Environment:
         Click the button to allow scripts to run and try again.
 
 Choosing a kernel for your notebook to run:
-    Note: if you can't select a kernel when running your Jupyter notebook, you might need to install extensions first
+    Note: if you can't select a kernel when running your Jupyter notebook:
+        you might need to install extensions first
+        you might be working a folder level above where your virtual environment is contained, trying File > Open Folder and navigate to the folder where you virtual environment is located
+            e.g. if your course-labs folder contains a folder named for your venv and also a folder called labs, open course-labs. If your folder labs contains a folder with the name of your venv, open labs.
+            
