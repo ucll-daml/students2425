@@ -1,0 +1,9 @@
+Creating a Virtual Environment:
+    command: python -m venv .venv (this will create a venv named .venv, you can change the last word to whatever name you want to give your virtual environment)
+    for mac users: python3 - m venv .venv
+
+    alternative approach: create a virtual environment using the VS Code buttons:
+        click on "select kernel" or the python environment at the top right corner of your notebook
+        click "select another kernel" > "python environments" > "create python environment" > venv
+
+    Note: if you can't select a kernel when running your Jupyter notebook, you might need to install extensions first
