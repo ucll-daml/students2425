@@ -6,4 +6,10 @@ Creating a Virtual Environment:
         click on "select kernel" or the python environment at the top right corner of your notebook
         click "select another kernel" > "python environments" > "create python environment" > venv
 
+Activating a Virtual Environment:
+    Your Windows security setting might be blocking scripts (you'll see a red error message to this effect)
+        If so: search in your Windows search bar for the word "Scripts" and choose "allow local powershell scripts to run without signing" or the Dutch equivalent to this.
+        Click the button to allow scripts to run and try again.
+
+Choosing a kernel for your notebook to run:
     Note: if you can't select a kernel when running your Jupyter notebook, you might need to install extensions first
