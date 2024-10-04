@@ -16,4 +16,5 @@ Choosing a kernel for your notebook to run:
         you might need to install extensions first
         you might be working a folder level above where your virtual environment is contained, trying File > Open Folder and navigate to the folder where you virtual environment is located
             e.g. if your course-labs folder contains a folder named for your venv and also a folder called labs, open course-labs. If your folder labs contains a folder with the name of your venv, open labs.
-            
+
+You have a quiz on Monday: (+Q_5ZN@zJg6
